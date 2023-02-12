@@ -8,4 +8,4 @@ int value = Convert.ToInt32(inputValue); // Конвертация в целое
 int square = value * value; // Вычисление квадрата
 // Вывод на экран
 System.Console.WriteLine("Квадрат числа " + value + " равен " + square);
-System.Console.WriteLine($"Квадрат числа {value} равен {square}");
+System.Console.WriteLine($"Квадрат числа {value} равен {square}"); // знак $ это подстановка для value и square, без них будет выводится не значение переменных, а их название
