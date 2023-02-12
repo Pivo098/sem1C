@@ -3,9 +3,9 @@
 // a = 2 b = 10 -> нет 
 // a = 9; b = -3 -> нет 
 // a = -3 b = 9 -> да
-Console.WriteLine("Введите два числа > ");
-
+Console.WriteLine("Введите первое число > ");
 string inputValue1 = Console.ReadLine();
+Console.WriteLine("Введите второе число > ");
 string inputValue2 = Console.ReadLine();
 int value1 = Convert.ToInt32(inputValue1);
 int value2 = Convert.ToInt32(inputValue2);
