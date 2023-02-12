@@ -1,0 +1,15 @@
+C:\Users\Kompich\Desktop\sem11\sem1.2\bin\Debug\net7.0\sem1.2.exe
+C:\Users\Kompich\Desktop\sem11\sem1.2\bin\Debug\net7.0\sem1.2.deps.json
+C:\Users\Kompich\Desktop\sem11\sem1.2\bin\Debug\net7.0\sem1.2.runtimeconfig.json
+C:\Users\Kompich\Desktop\sem11\sem1.2\bin\Debug\net7.0\sem1.2.dll
+C:\Users\Kompich\Desktop\sem11\sem1.2\bin\Debug\net7.0\sem1.2.pdb
+C:\Users\Kompich\Desktop\sem11\sem1.2\obj\Debug\net7.0\sem1.2.csproj.AssemblyReference.cache
+C:\Users\Kompich\Desktop\sem11\sem1.2\obj\Debug\net7.0\sem1.2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kompich\Desktop\sem11\sem1.2\obj\Debug\net7.0\sem1.2.AssemblyInfoInputs.cache
+C:\Users\Kompich\Desktop\sem11\sem1.2\obj\Debug\net7.0\sem1.2.AssemblyInfo.cs
+C:\Users\Kompich\Desktop\sem11\sem1.2\obj\Debug\net7.0\sem1.2.csproj.CoreCompileInputs.cache
+C:\Users\Kompich\Desktop\sem11\sem1.2\obj\Debug\net7.0\sem1.2.dll
+C:\Users\Kompich\Desktop\sem11\sem1.2\obj\Debug\net7.0\refint\sem1.2.dll
+C:\Users\Kompich\Desktop\sem11\sem1.2\obj\Debug\net7.0\sem1.2.pdb
+C:\Users\Kompich\Desktop\sem11\sem1.2\obj\Debug\net7.0\sem1.2.genruntimeconfig.cache
+C:\Users\Kompich\Desktop\sem11\sem1.2\obj\Debug\net7.0\ref\sem1.2.dll
